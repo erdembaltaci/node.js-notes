@@ -1,0 +1,16 @@
+{
+  "type":"module",
+  "name": "node.js-uygulamalar",
+  "version": "1.0.0",
+  "main": "uygulama1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "validator": "^13.12.0"
+  }
+}
